@@ -11,4 +11,4 @@ I'm a paragraph!
 Hello
 
 Amazon website
-https://www.amazon.com/ref=nav_logo
+[original post] (https://www.amazon.com/ref=nav_logo/)
