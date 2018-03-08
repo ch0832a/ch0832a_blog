@@ -1,5 +1,5 @@
 # web1 self-publishing
 
-hello@imaginaryterrain.com
+hawitcamille@gmail.com
 
 [Students: edit this file!]
