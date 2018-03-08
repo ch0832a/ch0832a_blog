@@ -4,3 +4,11 @@ description: Hello again
 ---
 
 This is a post. Rename the file and replace it with a real post.
+
+
+I'm a paragraph!
+
+Hello
+
+
+Hi
