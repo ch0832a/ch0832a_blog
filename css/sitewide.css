@@ -51,5 +51,8 @@ body {
 
 body {
     background-image: url("arj-567106-unsplash.jpg");
-    background-repeat: repeat-x;
+    background-repeat: repeat-x;  
+	Background-size: cover 
+
+}
 }
