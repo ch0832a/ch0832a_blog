@@ -1,0 +1,8 @@
+---
+title: "Wired"
+description: "Short article about graphic design."
+---
+
+Cool site. 
+
+Click <a href="https://www.wired.com/category/design/">here</a> to read more.
