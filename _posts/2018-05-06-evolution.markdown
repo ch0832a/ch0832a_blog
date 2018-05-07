@@ -1,4 +1,3 @@
-
 ---
 title: "How Graphic Design is Evolving"
 description: "Short article about the evolution of graphic design."
