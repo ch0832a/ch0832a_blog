@@ -1,4 +1,3 @@
-
 ---
 title: "Inspiring Everyday Graphic Design Articles"
 description: "Short article about graphic design."
