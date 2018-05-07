@@ -1,0 +1,8 @@
+---
+title: "Idea Magazine"
+description: "Short article about graphic design."
+---
+
+Nice website.
+
+Click <a href="http://www.idea-mag.com/en/">here</a> to read more.
