@@ -1,0 +1,8 @@
+---
+title: "Harvard University Graduate School of Design"
+description: "Short article about graphic design."
+---
+
+Another cool site
+
+Click <a href="http://www.gsd.harvard.edu/publication/seventeen/ ">here</a> to read more.
