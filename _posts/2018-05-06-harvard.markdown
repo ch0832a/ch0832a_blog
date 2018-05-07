@@ -1,0 +1,9 @@
+---
+title: "Harvard Design Magazine"
+description: "Short article about graphic design."
+---
+
+Nice looking website.
+
+
+Click <a href=" http://www.harvarddesignmagazine.org">here</a> to read more.
